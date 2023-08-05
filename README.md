@@ -1,4 +1,7 @@
 # TallerFinal
-Autor: Alejandro Huerfano Benitez
-Codigo: 202315275
-Herramientas usadas: Eclipse
+# Autor:
+Alejandro Huerfano Benitez
+# Codigo:
+202315275
+# Herramientas usadas:
+Eclipse
